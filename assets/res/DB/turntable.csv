@@ -1,0 +1,12 @@
+Id,index,num,order,level,weights,pack,image,
+奖品id,道具位置,奖品数量,后补奖品顺序,可抽取等级,掉落权重,组合道具内容：ID|数量,图片,备注
+103,1,100,,,20,,icon_lucky_wheel_diamond.png,钻石
+301,2,100,,3,5,"201|1,202|1,203|1",icon_lucky_wheel_package.png,道具包
+102,3,100000,,,20,,icon_lucky_wheel_coin.png,金币
+201,4,100,,2,5,,icon_lucky_wheel_miss.png,miss道具
+104,5,1,0,,10,,icon_lucky_wheel_puzzle.png,盘面碎片
+202,6,100,,2,5,,icon_lucky_wheel_speed.png,冲刺道具
+204,7,1000,,2,30,,icon_lucky_wheel_live.png,复活道具
+203,8,100,,2,5,,icon_lucky_wheel_slow.png,减速道具
+101,,5,10,,10,,icon_lucky_wheel_life.png,体力
+205,,1,,,30,,icon_lucky_wheel_unlock.png,挑战钥匙
